@@ -1,0 +1,16 @@
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.exe
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.deps.json
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.runtimeconfig.json
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.runtimeconfig.dev.json
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.dll
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\bin\Debug\net5.0\ref\SoccerLeagueTable.dll
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.pdb
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.csproj.AssemblyReference.cache
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.AssemblyInfoInputs.cache
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.AssemblyInfo.cs
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.csproj.CoreCompileInputs.cache
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.dll
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\ref\SoccerLeagueTable.dll
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.pdb
+C:\Users\bujor\RiderProjects\Lab2\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.genruntimeconfig.cache
