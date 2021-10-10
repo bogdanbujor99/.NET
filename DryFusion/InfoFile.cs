@@ -45,7 +45,6 @@ namespace DryFusion
 
         public void Spread()
         {
-            Console.WriteLine(_classType.GetType().ToString());
             switch (_classType.GetType().ToString())
             {
                 case "SoccerLeagueTable.LeagueInfo":
