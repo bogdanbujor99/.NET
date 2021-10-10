@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DryFusion/1.0.0": {
+        "dependencies": {
+          "SoccerLeagueTable": "1.0.0",
+          "WeatherData": "1.0.0"
+        },
+        "runtime": {
+          "DryFusion.dll": {}
+        }
+      },
+      "SoccerLeagueTable/1.0.0": {
+        "runtime": {
+          "SoccerLeagueTable.dll": {}
+        }
+      },
+      "WeatherData/1.0.0": {
+        "runtime": {
+          "WeatherData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DryFusion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoccerLeagueTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
