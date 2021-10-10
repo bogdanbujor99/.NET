@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherData", "WeatherData\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerLeagueTable", "SoccerLeagueTable\SoccerLeagueTable.csproj", "{43D36AD2-51D2-4983-A6FA-5665078FDE05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DryFusion", "DryFusion\DryFusion.csproj", "{5D1EF21B-87CD-4539-82DC-A7E2BF7B9102}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{43D36AD2-51D2-4983-A6FA-5665078FDE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43D36AD2-51D2-4983-A6FA-5665078FDE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43D36AD2-51D2-4983-A6FA-5665078FDE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1EF21B-87CD-4539-82DC-A7E2BF7B9102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1EF21B-87CD-4539-82DC-A7E2BF7B9102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1EF21B-87CD-4539-82DC-A7E2BF7B9102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1EF21B-87CD-4539-82DC-A7E2BF7B9102}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -7,9 +7,29 @@ namespace WeatherData
 {
     public class MonthInfo
     {
-        private readonly List<WeatherDay> _dates = new List<WeatherDay>();
+        private List<WeatherDay> _dates = new List<WeatherDay>();
         private int _lowestSpread;
         private WeatherDay _lowestDaySpread;
+
+        public List<WeatherDay> Dates
+        {
+            get => _dates;
+            set => _dates = value;
+        }
+
+        public int LowestSpread
+        {
+            get => _lowestSpread;
+            set => _lowestSpread = value;
+        }
+
+        public WeatherDay LowestDaySpread1
+        {
+            get => _lowestDaySpread;
+            set => _lowestDaySpread = value;
+        }
+        
+        public MonthInfo(){}
         public MonthInfo(string path)
         {
             for (var i = 2; i < File.ReadAllLines(path).Length-1; i++)

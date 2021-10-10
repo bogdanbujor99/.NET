@@ -7,10 +7,29 @@ namespace SoccerLeagueTable
 {
     public class LeagueInfo
     {
-        private readonly List<InfoTeam> _teams = new List<InfoTeam>();
+        private List<InfoTeam> _teams = new List<InfoTeam>();
         private int _smallestDifference;
         private InfoTeam _teamSmallestDifference;
+
+        public List<InfoTeam> Teams
+        {
+            get => _teams;
+            set => _teams = value;
+        }
+
+        public int SmallestDifference
+        {
+            get => _smallestDifference;
+            set => _smallestDifference = value;
+        }
+
+        public InfoTeam TeamSmallestDifference1
+        {
+            get => _teamSmallestDifference;
+            set => _teamSmallestDifference = value;
+        }
         
+        public LeagueInfo(){}
         public LeagueInfo(string path)
         {
             for (var i = 1; i < File.ReadAllLines(path).Length; i++)
