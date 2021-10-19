@@ -1,0 +1,24 @@
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.csprojAssemblyReference.cache
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.AssemblyInfo.cs
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\bin\Debug\net5.0\TSP.L2.deps.json
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\bin\Debug\net5.0\TSP.L2.dll
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\bin\Debug\net5.0\ref\TSP.L2.dll
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\bin\Debug\net5.0\TSP.L2.pdb
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.dll
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\ref\TSP.L2.dll
+C:\Users\folariu\Desktop\Facultate\Topici speciale de programare in .NET\L2\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.pdb
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\TSP.L2.deps.json
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\TSP.L2.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\ref\TSP.L2.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\TSP.L2.pdb
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.csproj.AssemblyReference.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.AssemblyInfoInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.AssemblyInfo.cs
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.csproj.CoreCompileInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\ref\TSP.L2.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\TSP.L2.pdb

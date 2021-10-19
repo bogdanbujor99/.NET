@@ -1,0 +1,24 @@
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\INET.Lab4.deps.json
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\INET.Lab4.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\ref\INET.Lab4.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\bin\Debug\net5.0\INET.Lab4.pdb
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\INET.Lab4.csproj.AssemblyReference.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\INET.Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\INET.Lab4.AssemblyInfoInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\INET.Lab4.AssemblyInfo.cs
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\INET.Lab4.csproj.CoreCompileInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\INET.Lab4.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\ref\INET.Lab4.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 4\TSP.L2\TSP.L2\obj\Debug\net5.0\INET.Lab4.pdb
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\bin\Debug\net5.0\INET.Lab4.deps.json
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\bin\Debug\net5.0\INET.Lab4.dll
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\bin\Debug\net5.0\ref\INET.Lab4.dll
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\bin\Debug\net5.0\INET.Lab4.pdb
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\INET.Lab4.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\INET.Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\INET.Lab4.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\INET.Lab4.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\INET.Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\INET.Lab4.dll
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\ref\INET.Lab4.dll
+C:\Users\Valentin\Desktop\INET.LAB4\TSP.L2\obj\Debug\net5.0\INET.Lab4.pdb
