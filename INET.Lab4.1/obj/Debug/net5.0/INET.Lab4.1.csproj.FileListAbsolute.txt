@@ -1,0 +1,16 @@
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\bin\Debug\net5.0\INET.Lab4.1.exe
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\bin\Debug\net5.0\INET.Lab4.1.deps.json
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\bin\Debug\net5.0\INET.Lab4.1.runtimeconfig.json
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\bin\Debug\net5.0\INET.Lab4.1.runtimeconfig.dev.json
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\bin\Debug\net5.0\INET.Lab4.1.dll
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\bin\Debug\net5.0\ref\INET.Lab4.1.dll
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\bin\Debug\net5.0\INET.Lab4.1.pdb
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.dll
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\ref\INET.Lab4.1.dll
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.pdb
+C:\Users\Valentin\Desktop\INET.LAB4\INET.Lab4.1\obj\Debug\net5.0\INET.Lab4.1.genruntimeconfig.cache
